@@ -1,0 +1,33 @@
+.header-container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.links-container{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    align-items: center;
+}
+.link{
+    text-decoration: none;
+    color: #C3167C;
+    font-weight: bold;
+}
+.logo{
+    width: 30%;
+}
+.button-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 30%;
+}
+.button{
+background-color: #C3167C;
+color: white;
+padding: 7px 15px;
+cursor: pointer;
+border-style: none;
+border-radius: 3px;
+}
